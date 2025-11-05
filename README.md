@@ -54,15 +54,14 @@ Sair
 ---
 
 ## 📦 Estrutura do projeto
-
-
-
+```
 to-do-list-java/
 ├── src/
-│ └── Main.java
+│   └── Main.java
 ├── .gitignore
 ├── to-do-list-java.iml
 └── README.md
+```
 
 
 ---
